@@ -47,17 +47,17 @@ table {
 
 @font-face {
 	font-family: "ARSMaquettePro";
-	src: url("/assets/ARSMaquettePro-Regular.otf") format("opentype");
+	src: url("assets/ARSMaquettePro-Regular.otf") format("opentype");
 }
 
 @font-face {
 	font-family: "Shentox";
-	src: url("/assets/Shentox.ttf");
+	src: url("assets/Shentox.ttf");
 }
 
 @font-face {
 	font-family: "Avalon_Bold";
-	src: url("/assets/Avalon_Bold.ttf");
+	src: url("assets/Avalon_Bold.ttf");
 }
 
 body {
